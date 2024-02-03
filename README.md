@@ -160,7 +160,14 @@ work in progress...
 
 ### Risorse Utili
 
-work in progress...
+- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/it/docs/Web/JavaScript)
+- [W3Schools](https://www.w3schools.com/js/default.asp)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Node JS](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [jQuery](https://jquery.com/)
+- [React](https://react.dev/)
 
 [Website](https://moris88.github.io/formazione-javascript/)
 
