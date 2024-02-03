@@ -101,4 +101,4 @@ In questa lezione abbiamo visto la sintassi di base di JavaScript, inclusi comme
 
 #### By [Maurizio Tolomeo](https://github.com/moris88)
 
-[HOMEPAGE](/README.md) | [LEZIONE SUCCESSIVA](/lezioni/lezione3.md)
+[HOMEPAGE](https://moris88.github.io/formazione-javascript/) | [LEZIONE SUCCESSIVA](https://moris88.github.io/formazione-javascript/lezioni/lezione3)

@@ -40,4 +40,4 @@ Le interazioni con l'utente sono importanti per creare siti web interattivi e co
 
 #### By [Maurizio Tolomeo](https://github.com/moris88)
 
-[HOMEPAGE](/README.md) | [LEZIONE SUCCESSIVA](/lezioni/lezione7.md)
+[HOMEPAGE](https://moris88.github.io/formazione-javascript/) | [LEZIONE SUCCESSIVA](https://moris88.github.io/formazione-javascript/lezioni/lezione7)

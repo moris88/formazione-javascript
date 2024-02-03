@@ -70,4 +70,4 @@ Gli operatori aritmetici sono utilizzati per eseguire operazioni matematiche su 
 
 #### By [Maurizio Tolomeo](https://github.com/moris88)
 
-[HOMEPAGE](/README.md) | [LEZIONE SUCCESSIVA](/lezioni/lezione9.md)
+[HOMEPAGE](https://moris88.github.io/formazione-javascript/) | [LEZIONE SUCCESSIVA](https://moris88.github.io/formazione-javascript/lezioni/lezione9)

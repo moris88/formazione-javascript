@@ -305,4 +305,4 @@ In questo articolo, abbiamo esaminato come dichiarare e utilizzare variabili in 
 
 #### By [Maurizio Tolomeo](https://github.com/moris88)
 
-[HOMEPAGE](/README.md) | [LEZIONE SUCCESSIVA](/lezioni/lezione6.md)
+[HOMEPAGE](https://moris88.github.io/formazione-javascript/) | [LEZIONE SUCCESSIVA](https://moris88.github.io/formazione-javascript/lezioni/lezione6)

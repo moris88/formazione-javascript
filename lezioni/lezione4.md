@@ -48,4 +48,4 @@ Abbiamo visto come utilizzare la direttiva `"use strict"` per dichiarare che il 
 
 #### By [Maurizio Tolomeo](https://github.com/moris88)
 
-[HOMEPAGE](/README.md) | [LEZIONE SUCCESSIVA](/lezioni/lezione5.md)
+[HOMEPAGE](https://moris88.github.io/formazione-javascript/) | [LEZIONE SUCCESSIVA](https://moris88.github.io/formazione-javascript/lezioni/lezione5)

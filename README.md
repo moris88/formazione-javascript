@@ -40,7 +40,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 7](/lezioni/lezione7.md): Conversione di tipi
 - [Lezione 8](/lezioni/lezione8.md): Operatori di base
 - [Lezione 9](/lezioni/lezione9.md): Operatori di confronto
-- [Lezione 10](/lezioni/lezione10.md): Operatori condizionali: if, '?'
+- [Lezione 10](/lezioni/lezione10.md): Operatori condizionali
+- [Lezione 11](/lezioni/lezione11.md): Cicli: while e for
 
 work in progress...
 
