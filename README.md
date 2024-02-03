@@ -156,12 +156,11 @@ work in progress...
 
 - [Guida delle versioni](https://compat-table.github.io/compat-table/es6/)
 - [Tabelle di supporto di ogni caratteristica](http://caniuse.com)
-- [Documentazione ufficiale di JavaScript](https://developer.mozilla.org/it/docs/Web/JavaScript)
+- [MDN Web Docs](https://developer.mozilla.org/it/docs/Web/JavaScript)
 
 ### Risorse Utili
 
 - [JavaScript.info](https://javascript.info/)
-- [MDN Web Docs](https://developer.mozilla.org/it/docs/Web/JavaScript)
 - [W3Schools](https://www.w3schools.com/js/default.asp)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [Node JS](https://nodejs.org/)
