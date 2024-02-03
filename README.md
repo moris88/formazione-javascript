@@ -32,7 +32,15 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 ### Lezioni
 
 - [Lezione 1](/lezioni/lezione1.md): Introduzione a JavaScript
-- [Lezione 2](/lezioni/lezione2.md): Variabili e tipi di dati
+- [Lezione 2](/lezioni/lezione2.md): La sintassi di base di JavaScript
+- [Lezione 3](/lezioni/lezione3.md): Includere JavaScript in un documento HTML
+- [Lezione 4](/lezioni/lezione4.md): Le tecniche moderne, "use strict"
+- [Lezione 5](/lezioni/lezione5.md): Variabili e tipi di dati
+- [Lezione 6](/lezioni/lezione6.md): Interazioni: alert, prompt, confirm
+- [Lezione 7](/lezioni/lezione7.md): Conversione di tipi
+- [Lezione 8](/lezioni/lezione8.md): Operatori di base
+- [Lezione 9](/lezioni/lezione9.md): Operatori di confronto
+- [Lezione 10](/lezioni/lezione10.md): Operatori condizionali: if, '?'
 
 work in progress...
 
