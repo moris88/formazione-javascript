@@ -31,7 +31,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 
 ### Lezioni
 
-- [Lezione 1](/lezioni/lezione1.md): Introduzione a Javascript
+- [Lezione 1](/lezioni/lezione1.md): Introduzione a JavaScript
+- [Lezione 2](/lezioni/lezione2.md): Variabili e tipi di dati
 
 work in progress...
 
@@ -49,9 +50,9 @@ work in progress...
 
 ### Link Utili
 
-- [Guida delle versioni](https://devguide.python.org/versions/#versions)
-- [Documentazione Ufficiale](https://www.python.org/doc/)
-- [Libreria Standard](https://docs.python.org/3/library/index.html)
+- [Guida delle versioni](https://compat-table.github.io/compat-table/es6/)
+- [Tabelle di supporto di ogni caratteristica](http://caniuse.com)
+- [Documentazione ufficiale di JavaScript](https://developer.mozilla.org/it/docs/Web/JavaScript)
 
 ### Risorse Utili
 
