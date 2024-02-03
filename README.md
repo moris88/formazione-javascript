@@ -43,6 +43,9 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 9](/lezioni/lezione9.md): Operatori di confronto
 - [Lezione 10](/lezioni/lezione10.md): Operatori condizionali
 - [Lezione 11](/lezioni/lezione11.md): Cicli: while e for
+
+work in progress...
+
 - [Lezione 12](/lezioni/lezione12.md): L'istruzione "switch"
 - [Lezione 13](/lezioni/lezione13.md): Funzioni
 - [Lezione 14](/lezioni/lezione14.md): Function expression
@@ -58,6 +61,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 24](/lezioni/lezione24.md): Moduli
 
 ## Parte 2: Browser: Document, Events, Interfaces
+
+work in progress...
 
 - [Lezione 25](/lezioni/lezione25.md): Il Browser
 - [Lezione 26](/lezioni/lezione26.md): Il DOM
@@ -78,6 +83,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 
 ## Parte 3: JavaScript avanzato
 
+work in progress...
+
 - [Lezione 41](/lezioni/lezione41.md): Metodi di popups e window
 - [Lezione 42](/lezioni/lezione42.md): JSON
 - [Lezione 43](/lezioni/lezione43.md): Network requests
@@ -89,6 +96,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 49](/lezioni/lezione49.md): Regular expressions
 
 ## Parte 4: Node.js
+
+work in progress...
 
 - [Lezione 50](/lezioni/lezione50.md): Introduzione a Node.js
 - [Lezione 51](/lezioni/lezione51.md): Modules
@@ -102,6 +111,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 59](/lezioni/lezione59.md): Il modulo MySQL
 
 ## Parte 5: La tipizzazione di TypeScript
+
+work in progress...
 
 - [Lezione 60](/lezioni/lezione60.md): Introduzione a TypeScript
 - [Lezione 61](/lezioni/lezione61.md): Tipi di base
@@ -117,6 +128,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 
 ## Parte 6: La libreria jQuery
 
+work in progress...
+
 - [Lezione 71](/lezioni/lezione71.md): Introduzione a jQuery
 - [Lezione 72](/lezioni/lezione72.md): Selezione degli element
 - [Lezione 73](/lezioni/lezione73.md): Manipolazione degli elementi
@@ -127,6 +140,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 ## Parte 7: React
 
 ### Parte 7a: React basics
+
+work in progress...
 
 - [Lezione 77](/lezioni/lezione77.md): Introduzione a React
 - [Lezione 78](/lezioni/lezione78.md): JSX e TSX
@@ -139,6 +154,8 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 84](/lezioni/lezione84.md): React avanzato
 
 ### Parte 7b: Librerie React
+
+work in progress...
 
 - [Lezione 85](/lezioni/lezione85.md): Routing: React Router
 - [Lezione 86](/lezioni/lezione86.md): State Management: Recoil
