@@ -43,17 +43,17 @@ Questo repository contiene materiale didattico per l'apprendimento del linguaggi
 - [Lezione 9](/lezioni/lezione9.md): Operatori di confronto
 - [Lezione 10](/lezioni/lezione10.md): Operatori condizionali
 - [Lezione 11](/lezioni/lezione11.md): Cicli: while e for
-
-work in progress...
-
 - [Lezione 12](/lezioni/lezione12.md): L'istruzione "switch"
 - [Lezione 13](/lezioni/lezione13.md): Funzioni
 - [Lezione 14](/lezioni/lezione14.md): Function expression
 - [Lezione 15](/lezioni/lezione15.md): Arrow function
 - [Lezione 16](/lezioni/lezione16.md): Closure
 - [Lezione 17](/lezioni/lezione17.md): Oggetti
-- [Lezione 18](/lezioni/lezione18.md): Destructuring
+
+work in progress...
+
 - [Lezione 19](/lezioni/lezione19.md): Prototypes e inheritance
+- [Lezione 18](/lezioni/lezione18.md): Destructuring
 - [Lezione 20](/lezioni/lezione20.md): Classi
 - [Lezione 21](/lezioni/lezione21.md): Gestione degli errori
 - [Lezione 22](/lezioni/lezione22.md): Promise e async/await
@@ -139,8 +139,6 @@ work in progress...
 
 ## Parte 7: React
 
-### Parte 7a: React basics
-
 work in progress...
 
 - [Lezione 77](/lezioni/lezione77.md): Introduzione a React
@@ -152,18 +150,6 @@ work in progress...
 - [Lezione 82](/lezioni/lezione82.md): Eventi
 - [Lezione 83](/lezioni/lezione83.md): Form
 - [Lezione 84](/lezioni/lezione84.md): React avanzato
-
-### Parte 7b: Librerie React
-
-work in progress...
-
-- [Lezione 85](/lezioni/lezione85.md): Routing: React Router
-- [Lezione 86](/lezioni/lezione86.md): State Management: Recoil
-- [Lezione 87](/lezioni/lezione87.md): Form control: React Hook Form
-
-### Esercizi svolti
-
-work in progress...
 
 ## Tools da installare
 
